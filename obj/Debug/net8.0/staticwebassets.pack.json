@@ -1,0 +1,229 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/css/Test.css",
+      "PackagePath": "staticwebassets/css/Test.css"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/css/dropdown.css",
+      "PackagePath": "staticwebassets/css/dropdown.css"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/documentation.html",
+      "PackagePath": "staticwebassets/documentation.html"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/100861284-hand-of-drug-abuser-on-the-floor-with-different-drugs-for-abuse-.jpeg",
+      "PackagePath": "staticwebassets/images/100861284-hand-of-drug-abuser-on-the-floor-with-different-drugs-for-abuse-.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/Croissant1.jpeg",
+      "PackagePath": "staticwebassets/images/Croissant1.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/adultwoman.webp",
+      "PackagePath": "staticwebassets/images/adultwoman.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/ananas.jpeg",
+      "PackagePath": "staticwebassets/images/ananas.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/aubergine.jpeg",
+      "PackagePath": "staticwebassets/images/aubergine.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/banan.jpeg",
+      "PackagePath": "staticwebassets/images/banan.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/bilde-1.jpeg",
+      "PackagePath": "staticwebassets/images/bilde-1.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/bilde2.jpeg",
+      "PackagePath": "staticwebassets/images/bilde2.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/blue.jpeg",
+      "PackagePath": "staticwebassets/images/blue.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/bmw-5-serie.png",
+      "PackagePath": "staticwebassets/images/bmw-5-serie.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/bowser.jpeg",
+      "PackagePath": "staticwebassets/images/bowser.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/carsh.jpeg",
+      "PackagePath": "staticwebassets/images/carsh.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/cat1.jpeg",
+      "PackagePath": "staticwebassets/images/cat1.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/commodore.png",
+      "PackagePath": "staticwebassets/images/commodore.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/converse.jpeg",
+      "PackagePath": "staticwebassets/images/converse.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/coolbadge2.jpeg",
+      "PackagePath": "staticwebassets/images/coolbadge2.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/croissant2.jpeg",
+      "PackagePath": "staticwebassets/images/croissant2.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/dart-vader.jpg",
+      "PackagePath": "staticwebassets/images/dart-vader.jpg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/dogmeat.jpeg",
+      "PackagePath": "staticwebassets/images/dogmeat.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/fallout4.jpeg",
+      "PackagePath": "staticwebassets/images/fallout4.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/forest-bg.jpeg",
+      "PackagePath": "staticwebassets/images/forest-bg.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/gameboy.webp",
+      "PackagePath": "staticwebassets/images/gameboy.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/golf-car.jpeg",
+      "PackagePath": "staticwebassets/images/golf-car.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/greendot.png",
+      "PackagePath": "staticwebassets/images/greendot.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/jak3.webp",
+      "PackagePath": "staticwebassets/images/jak3.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/kålrot.jpeg",
+      "PackagePath": "staticwebassets/images/kålrot.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/link.webp",
+      "PackagePath": "staticwebassets/images/link.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/mario.jpeg",
+      "PackagePath": "staticwebassets/images/mario.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/mario.png",
+      "PackagePath": "staticwebassets/images/mario.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/millenumFalcoon.jpeg",
+      "PackagePath": "staticwebassets/images/millenumFalcoon.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/mt-hamster-s2_4x4.jpeg",
+      "PackagePath": "staticwebassets/images/mt-hamster-s2_4x4.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/price.jpeg",
+      "PackagePath": "staticwebassets/images/price.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/ps3.jpeg",
+      "PackagePath": "staticwebassets/images/ps3.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/ps5.jpeg",
+      "PackagePath": "staticwebassets/images/ps5.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/reddot.png",
+      "PackagePath": "staticwebassets/images/reddot.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/skyrim.jpeg",
+      "PackagePath": "staticwebassets/images/skyrim.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/sly.webp",
+      "PackagePath": "staticwebassets/images/sly.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/spillpng.png",
+      "PackagePath": "staticwebassets/images/spillpng.png"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/spyro.webp",
+      "PackagePath": "staticwebassets/images/spyro.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/supernintendo.webp",
+      "PackagePath": "staticwebassets/images/supernintendo.webp"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/theLastOfUsOne.jpeg",
+      "PackagePath": "staticwebassets/images/theLastOfUsOne.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/uncharted.jpg",
+      "PackagePath": "staticwebassets/images/uncharted.jpg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/victor.jpeg",
+      "PackagePath": "staticwebassets/images/victor.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/wallpaperflare.com_wallpaper.jpg",
+      "PackagePath": "staticwebassets/images/wallpaperflare.com_wallpaper.jpg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/xbox 360.jpeg",
+      "PackagePath": "staticwebassets/images/xbox 360.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/images/zelda.jpeg",
+      "PackagePath": "staticwebassets/images/zelda.jpeg"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/benjaminnaero/Desktop/ElectricGamesApi/wwwroot/scripts/checkIfServiceIsOnline.js",
+      "PackagePath": "staticwebassets/scripts/checkIfServiceIsOnline.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ElectricGamesApiV1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ElectricGamesApiV1.props",
+      "PackagePath": "build\\ElectricGamesApiV1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ElectricGamesApiV1.props",
+      "PackagePath": "buildMultiTargeting\\ElectricGamesApiV1.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ElectricGamesApiV1.props",
+      "PackagePath": "buildTransitive\\ElectricGamesApiV1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ElectricGamesApiV1.props" />
+</Project>
